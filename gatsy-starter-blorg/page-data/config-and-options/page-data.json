@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-gatsby-theme-orga-src-templates-post-query-js",
+    "path": "/config-and-options",
+    "result": {"data":{"orgPost":{"title":"Config and Options","category":"getting-started","excerpt":"Options for the plugin, explained","date":"November 10, 2020","tags":["tutorial"],"slug":"/config-and-options","image":null}},"pageContext":{"id":"3df1a6e3-249d-5123-a37f-21d200b227e3","maxWidth":1380}},
+    "staticQueryHashes": ["2744905544","3233986221","3628345943","764694655"]}
