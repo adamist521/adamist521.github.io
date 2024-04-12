@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---node-modules-gatsby-theme-orga-src-templates-posts-query-js",
-    "path": "/getting-started",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Gatsby With Orga"}},"allOrgPost":{"nodes":[{"id":"5c32e76b-5720-5756-a7d6-23e9994888ad","title":"First Thing First","category":"getting-started","excerpt":"when you are reading this from =localhost=, you can skip this part now.","date":"November 10, 2020","tags":["tutorial"],"slug":"/first-thing-first"},{"id":"3df1a6e3-249d-5123-a37f-21d200b227e3","title":"Config and Options","category":"getting-started","excerpt":"Options for the plugin, explained","date":"November 10, 2020","tags":["tutorial"],"slug":"/config-and-options"},{"id":"309c9fca-e478-5790-84cf-d24849b39234","title":"About Your Org Files","category":"getting-started","excerpt":"","date":"November 10, 2020","tags":[],"slug":"/about-your-org-files"}]}},"pageContext":{"ids":["5c32e76b-5720-5756-a7d6-23e9994888ad","3df1a6e3-249d-5123-a37f-21d200b227e3","309c9fca-e478-5790-84cf-d24849b39234"],"columns":2}},
-    "staticQueryHashes": ["2744905544","3628345943","764694655"]}

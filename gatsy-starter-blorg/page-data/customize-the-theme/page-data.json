@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---node-modules-gatsby-theme-orga-src-templates-post-query-js",
-    "path": "/customize-the-theme",
-    "result": {"data":{"orgPost":{"title":"Customize the Theme","category":"advanced","excerpt":"How to change the colors and stuff.","date":"November 10, 2020","tags":["tutorial"],"slug":"/customize-the-theme","image":null}},"pageContext":{"id":"e6752cb1-89a5-5bdf-a1af-2a2af7aa4d61","maxWidth":1380}},
-    "staticQueryHashes": ["2744905544","3233986221","3628345943","764694655"]}
