@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-gatsby-theme-orga-src-templates-post-query-js",
+    "path": "/advanced-customization",
+    "result": {"data":{"orgPost":{"title":"Advanced Customization","category":"advanced","excerpt":"How to change every details you can think of.","date":"November 10, 2020","tags":["tutorial"],"slug":"/advanced-customization","image":null}},"pageContext":{"id":"fa01f479-c092-516c-b33a-d3b1b7d1ceb1","maxWidth":1380}},
+    "staticQueryHashes": ["2744905544","3233986221","3628345943","764694655"]}
